@@ -1,0 +1,117 @@
+From,From_Country,To,To_Country,Distance_km,Flight_Time_hr,Train_Time_hr,Bus_Time_hr,Flight_Cost_EUR,Train_Cost_EUR,Bus_Cost_EUR
+Amsterdam,Netherlands,Reykjavik,Iceland,2100,3.2,0,0,120,0,0
+Madrid,Spain,Valencia,Spain,360,1,2,4,40,30,15
+Berlin,Germany,Prague,Czech Republic,350,1,4.5,5.5,45,40,20
+Rome,Italy,Florence,Italy,280,0.8,2,4,45,35,20
+Madrid,Spain,Seville,Spain,530,1.1,2.5,6,45,35,20
+Amsterdam,Netherlands,Brussels,Belgium,210,0.8,2,4,40,35,20
+Brussels,Belgium,Amsterdam,Netherlands,173,0.7,0.9,2.2,50,40,20
+Hamburg,Germany,Amsterdam,Netherlands,365,1,1.8,4.6,50,40,20
+London,United Kingdom,Amsterdam,Netherlands,358,0.9,1.8,4.5,50,40,20
+Luxembourg City,Luxembourg,Amsterdam,Netherlands,318,0.9,1.6,4,50,40,20
+Paris,France,Brussels,Belgium,265,1,1.5,4,40,45,55
+Madrid,Spain,Barcelona,Spain,620,1.2,3,8,55,45,25
+Amsterdam,Netherlands,Hamburg,Germany,465,1,5,8,55,50,25
+Berlin,Germany,Warsaw,Poland,570,1.2,5.8,9,60,50,30
+Berlin,Germany,Copenhagen,Denmark,355,1,6.7,8,50,65,30
+Paris,France,Amsterdam,Netherlands,520,1.2,3.2,7,65,55,30
+Paris,France,Geneva,Switzerland,410,1,3.1,6,50,60,30
+Rome,Italy,Venice,Italy,530,1,4,7,60,45,30
+Madrid,Spain,Lisbon,Portugal,625,1.2,9,10,50,60,30
+Amsterdam,Netherlands,Luxembourg City,Luxembourg,370,1,5.5,8,60,65,30
+Copenhagen,Denmark,Amsterdam,Netherlands,621,1.3,3.1,7.8,50,50,31
+Zurich,Switzerland,Amsterdam,Netherlands,613,1.3,3.1,7.7,50,49,31
+Amsterdam,Netherlands,Zurich,Switzerland,613,1.3,3.1,7.7,50,49,31
+Munich,Germany,Amsterdam,Netherlands,668,1.3,3.3,8.3,50,53,33
+Amsterdam,Netherlands,Munich,Germany,668,1.3,3.3,8.3,50,53,33
+Paris,France,London,UK,450,1.2,2.5,8,60,80,35
+Geneva,Switzerland,Amsterdam,Netherlands,691,1.4,3.5,8.6,50,55,35
+Prague,Czech Republic,Amsterdam,Netherlands,711,1.4,3.6,8.9,50,57,36
+Dublin,Ireland,Amsterdam,Netherlands,757,1.4,3.8,9.5,50,61,38
+Berlin,Germany,Amsterdam,Netherlands,575,1.3,6.3,9,70,65,40
+Amsterdam,Netherlands,Copenhagen,Denmark,620,1.2,7.5,11,60,75,40
+Amsterdam,Netherlands,Berlin,Germany,575,1.3,6.3,9,70,65,40
+Milan,Italy,Amsterdam,Netherlands,829,1.5,4.1,10.4,50,66,41
+Amsterdam,Netherlands,Milan,Italy,829,1.5,4.1,10.4,50,66,41
+Berlin,Germany,Paris,France,1054,1.5,8.5,12,80,90,45
+Berlin,Germany,Vienna,Austria,680,1.3,8.5,10,70,80,45
+Berlin,Germany,Brussels,Belgium,765,1.4,7.5,11,75,85,45
+Paris,France,Berlin,Germany,1054,1.5,8.5,12,80,90,45
+Paris,France,Prague,Czech Republic,885,1.5,10,14,75,80,45
+Rome,Italy,Zagreb,Croatia,650,1.2,10,15,70,85,45
+Amsterdam,Netherlands,Prague,Czech Republic,880,1.6,12,16,70,90,45
+Oslo,Norway,Amsterdam,Netherlands,913,1.6,4.6,11.4,55,73,46
+Venice,Italy,Amsterdam,Netherlands,941,1.7,4.7,11.8,56,75,47
+Vienna,Austria,Amsterdam,Netherlands,935,1.7,4.7,11.7,56,75,47
+Amsterdam,Netherlands,Venice,Italy,941,1.7,4.7,11.8,56,75,47
+Paris,France,Madrid,Spain,1270,2,10,16,80,90,50
+Rome,Italy,Munich,Germany,920,1.5,11,16,85,95,50
+Amsterdam,Netherlands,Oslo,Norway,915,1.5,14,18,75,100,50
+Florence,Italy,Amsterdam,Netherlands,1065,1.8,5.3,13.3,64,85,53
+Amsterdam,Netherlands,Florence,Italy,1065,1.8,5.3,13.3,64,85,53
+Zagreb,Croatia,Amsterdam,Netherlands,1085,1.9,5.4,13.6,65,87,54
+Zagreb,Croatia,Athens,Greece,1080,1.9,5.4,13.5,65,86,54
+Amsterdam,Netherlands,Zagreb,Croatia,1085,1.9,5.4,13.6,65,87,54
+Berlin,Germany,Zurich,Switzerland,850,1.5,11,14,85,100,55
+Paris,France,Rome,Italy,1105,2,11.5,18,85,95,55
+Paris,France,Vienna,Austria,1250,2,11,18,90,100,55
+Rome,Italy,Barcelona,Spain,860,1.7,14,20,85,100,55
+Rome,Italy,Budapest,Hungary,810,1.5,13,18,85,100,55
+Rome,Italy,Paris,France,1105,2,11.5,18,85,95,55
+Amsterdam,Netherlands,Stockholm,Sweden,1155,1.8,14,20,80,110,55
+Amsterdam,Netherlands,Dublin,Ireland,750,1.5,15,25,75,110,55
+Warsaw,Poland,Amsterdam,Netherlands,1093,1.9,5.5,13.7,66,87,55
+Amsterdam,Netherlands,Warsaw,Poland,1093,1.9,5.5,13.7,66,87,55
+Budapest,Hungary,Athens,Greece,1124,1.9,5.6,14.1,67,90,56
+Stockholm,Sweden,Amsterdam,Netherlands,1125,1.9,5.6,14.1,68,90,56
+Budapest,Hungary,Amsterdam,Netherlands,1145,1.9,5.7,14.3,69,92,57
+Amsterdam,Netherlands,Budapest,Hungary,1145,1.9,5.7,14.3,69,92,57
+Berlin,Germany,Rome,Italy,1180,2,14,22,90,110,60
+Paris,France,Lisbon,Portugal,1450,2.3,14,20,90,120,60
+Rome,Italy,Vienna,Austria,1120,2,13,18,90,110,60
+Rome,Italy,Berlin,Germany,1180,2,14,22,90,110,60
+Madrid,Spain,London,UK,1265,2.3,14,24,90,110,60
+Madrid,Spain,Geneva,Switzerland,1250,2.2,15,20,90,110,60
+Florence,Italy,Athens,Greece,1228,2,6.1,15.3,74,98,61
+Barcelona,Spain,Amsterdam,Netherlands,1238,2,6.2,15.5,74,99,62
+Venice,Italy,Athens,Greece,1257,2.1,6.3,15.7,75,101,63
+Vienna,Austria,Athens,Greece,1283,2.1,6.4,16,77,103,64
+Madrid,Spain,Milan,Italy,1180,2,15,22,95,120,65
+Madrid,Spain,Brussels,Belgium,1315,2.3,16,22,95,125,65
+Rome,Italy,Athens,Greece,1050,2,15,25,95,130,70
+Madrid,Spain,Amsterdam,Netherlands,1480,2.5,17,24,100,130,70
+Milan,Italy,Athens,Greece,1462,2.3,7.3,18.3,88,117,73
+Valencia,Spain,Amsterdam,Netherlands,1490,2.4,7.5,18.6,89,119,74
+Amsterdam,Netherlands,Valencia,Spain,1490,2.4,7.5,18.6,89,119,74
+Munich,Germany,Athens,Greece,1496,2.4,7.5,18.7,90,120,75
+Prague,Czech Republic,Athens,Greece,1533,2.4,7.7,19.2,92,123,77
+Berlin,Germany,Madrid,Spain,1860,2.7,20,28,110,150,80
+Madrid,Spain,Berlin,Germany,1860,2.7,20,28,110,150,80
+Warsaw,Poland,Athens,Greece,1598,2.5,8,20,96,128,80
+Zurich,Switzerland,Athens,Greece,1617,2.5,8.1,20.2,97,129,81
+Geneva,Switzerland,Athens,Greece,1709,2.6,8.5,21.4,103,137,85
+Lisbon,Portugal,Amsterdam,Netherlands,1863,2.8,9.3,23.3,112,149,93
+Seville,Spain,Amsterdam,Netherlands,1869,2.8,9.3,23.4,112,150,93
+Amsterdam,Netherlands,Seville,Spain,1869,2.8,9.3,23.4,112,150,93
+Athens,Greece,Barcelona,Spain,1878,2.8,9.4,23.5,113,150,94
+Barcelona,Spain,Athens,Greece,1878,2.8,9.4,23.5,113,150,94
+Luxembourg City,Luxembourg,Athens,Greece,1906,2.9,9.5,23.8,114,152,95
+Athens,Greece,Luxembourg City,Luxembourg,1906,2.9,9.5,23.8,114,152,95
+Hamburg,Germany,Athens,Greece,2025,3,10.1,25.3,122,162,101
+Reykjavik,Iceland,Amsterdam,Netherlands,2018,3,10.1,25.2,121,161,101
+Athens,Greece,Hamburg,Germany,2025,3,10.1,25.3,122,162,101
+Brussels,Belgium,Athens,Greece,2089,3.1,10.4,26.1,125,167,104
+Valencia,Spain,Athens,Greece,2091,3.1,10.5,26.1,125,167,105
+Copenhagen,Denmark,Athens,Greece,2136,3.2,10.7,26.7,128,171,107
+Athens,Greece,Amsterdam,Netherlands,2163,3.2,10.8,27,130,173,108
+London,United Kingdom,Athens,Greece,2392,3.5,12,29.9,144,191,120
+Stockholm,Sweden,Athens,Greece,2408,3.5,12,30.1,144,193,120
+Athens,Greece,Stockholm,Sweden,2408,3.5,12,30.1,144,193,120
+Oslo,Norway,Athens,Greece,2605,3.8,13,32.6,156,208,130
+Seville,Spain,Athens,Greece,2604,3.8,13,32.5,156,208,130
+Athens,Greece,Oslo,Norway,2605,3.8,13,32.6,156,208,130
+Dublin,Ireland,Athens,Greece,2855,4.1,14.3,35.7,171,228,143
+Lisbon,Portugal,Athens,Greece,2852,4.1,14.3,35.6,171,228,143
+Athens,Greece,Dublin,Ireland,2855,4.1,14.3,35.7,171,228,143
+Reykjavik,Iceland,Athens,Greece,4163,5.7,20.8,52,250,333,208
+Athens,Greece,Reykjavik,Iceland,4163,5.7,20.8,52,250,333,208
