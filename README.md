@@ -1,4 +1,4 @@
-Optimised Multi-City European Travel Planner
+# Optimised Multi-City European Travel Planner
 
 Project Overview
 
